@@ -55,3 +55,6 @@ body{
   border-radius: 15px;
   cursor: pointer;
 }
+#register_button:hover {
+  background-color: #26776e;
+}
