@@ -44,10 +44,8 @@ body {
   border-radius: 10px;
   font-size: 1rem;
   outline: none;
-}
-
-.input_fields input::placeholder{
-  padding-left: 10px;
+  box-sizing: border-box;
+  padding-left: 15px;
 }
 
 .options_div {
