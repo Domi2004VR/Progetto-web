@@ -80,9 +80,16 @@ button:hover {
   cursor: pointer;
 }
 
+
+.register_div{
+  display: flex;
+  justify-content: space-around;
+}
+
+
 .registrati {
-  text-align: center;
   margin-top: 15px;
+  padding: 12px;
 }
 
 .registrati a {
@@ -90,3 +97,4 @@ button:hover {
   text-decoration: none;
   font-weight: 500;
 }
+
